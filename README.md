@@ -1,6 +1,8 @@
-# Potboard Admin dashboard
+# Potboard Admin dashboard - react Dashboard
 
+## Note
 
+This project contains a login system, "fake users & comments". But you can add your own users by providing a login you may also post, edit posts, download any data, filter, Login, Logout, refresh, comment. The GUI is heavly based off Google.
 
 ## Available Scripts
 
