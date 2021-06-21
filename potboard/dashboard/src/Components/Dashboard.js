@@ -8,7 +8,7 @@ import { Card, CardContent, CardHeader } from '@material-ui/core';
 
 export default () => (
     <Card>
-        <CardHeader title="Wellcome to the administration" />
-        <CardContent>Lorem Ispum sic dolor amet...</CardContent>
+        <CardHeader title="Potboard" />
+        <CardContent>Welcome to potboard a secure admin dashboard</CardContent>
     </Card>
 );
